@@ -1,0 +1,6 @@
+arduino-cli
+pyserial
+RPi.GPIO  # If using Raspberry Pi
+numpy
+flask      # If a web interface is included
+requests   # For API calls if needed

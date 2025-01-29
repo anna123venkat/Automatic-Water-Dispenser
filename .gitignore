@@ -1,0 +1,22 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Compiled files
+*.hex
+*.bin
+
+# Arduino files
+*.ino.*
+build/
